@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyShoppingMall</string>
+
+    <array name="top">
+        <item>shirts</item>
+        <item>dress</item>
+        <item>blouse</item>
+        <item>sweater</item>
+        <item>cardigan</item>
+
+    </array>
+</resources>

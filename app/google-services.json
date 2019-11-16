@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443773580525",
+    "firebase_url": "https://myshoppingmall-9cec9.firebaseio.com",
+    "project_id": "myshoppingmall-9cec9",
+    "storage_bucket": "myshoppingmall-9cec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443773580525:android:b495bc53ab8a85c8af48e4",
+        "android_client_info": {
+          "package_name": "com.example.myshoppingmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443773580525-a4o3g4dfslisncuhmh8l7hah3req6b9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myshoppingmall",
+            "certificate_hash": "6d7c9d4e3ee68ebd64e60df13878ba5cf1389072"
+          }
+        },
+        {
+          "client_id": "443773580525-hun7543g4nm6orafhhbuk8ar2i20amc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPICrtTdbfwmZzVMcahrnOMf7yQAfXCPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443773580525-hun7543g4nm6orafhhbuk8ar2i20amc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

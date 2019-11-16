@@ -1,0 +1,76 @@
+{
+  "bottom" : {
+    "denim" : {
+      "denim1" : {
+        "Id" : "d1",
+        "Name" : "denim1_N"
+      },
+      "denim2" : {
+        "Id" : "d2",
+        "Name" : "denim2_N"
+      },
+      "denim3" : {
+        "Id" : "d3",
+        "Name" : "denim3_N"
+      }
+    },
+    "pants" : {
+      "pants1" : {
+        "Id" : "p1",
+        "Name" : "pants1_N"
+      },
+      "pants2" : {
+        "Id" : "p2",
+        "Name" : "pants2_N"
+      },
+      "pants3" : {
+        "Id" : "p3",
+        "Name" : "pants3_N"
+      }
+    }
+  },
+  "top" : {
+    "blouse" : {
+      "blouse1" : {
+        "Id" : "b1",
+        "Name" : "blouse1_N"
+      },
+      "blouse2" : {
+        "Id" : "b2",
+        "Name" : "blouse2_N"
+      },
+      "blouse3" : {
+        "Id" : "b3",
+        "Name" : "blouse3_N"
+      }
+    },
+    "shirts" : {
+      "shirts1" : {
+        "Id" : "st1",
+        "Name" : "shirts1_N"
+      },
+      "shirts2" : {
+        "ID" : "st2",
+        "Name" : "shirts2_N"
+      },
+      "shirts3" : {
+        "Id" : "st3",
+        "Name" : "shirts3_N"
+      }
+    },
+    "sweater" : {
+      "sweater1" : {
+        "Id" : "s1",
+        "Name" : "sweater1_N"
+      },
+      "sweater2" : {
+        "Id" : "s2",
+        "Name" : "sweater2_N"
+      },
+      "sweater3" : {
+        "Id" : "s3",
+        "Name" : "sweater3_N"
+      }
+    }
+  }
+}
